@@ -1,0 +1,24 @@
+{
+  "name": "demotypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pctcyber/TYPESCRIPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pctcyber/TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/pctcyber/TYPESCRIPT#readme"
+}
